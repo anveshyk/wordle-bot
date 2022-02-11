@@ -1,0 +1,1 @@
+"""Algorithm to solve Wordle given a word bank and previous attempt outcomes"""
